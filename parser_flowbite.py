@@ -3,7 +3,7 @@ import re
 
 fileBrowser = open("./source/flowbite.browser.css", "r+")
 fileFlowBite = open("./source/flowbite.min.css", "r+")
-fileHTML = open("./source/f.html", "r+")
+fileHTML = open("./source/flowbite.html", "r+")
 
 # with file:
 #     lines = [line.rstrip() for line in file]
